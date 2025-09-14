@@ -1,2 +1,2 @@
 # Alpha-dev
-Demo of Git &amp; GitHub class
+Demo of Git &amp; GitHub class.
